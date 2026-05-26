@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheperify",
+        "uuid": 1394430,
+        "checksum": "uambkb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
